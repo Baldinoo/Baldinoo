@@ -1,4 +1,4 @@
-### </Hello Word> Eu sou o Juan Rocha
+### <Hello Word/> Eu sou o Juan Rocha
 
  😉 Atualmente estudando tecnologias front-end. <br>
  😡 Inimigo dos bugs. <br>
