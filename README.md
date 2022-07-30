@@ -3,6 +3,7 @@
  😉 Atualmente estudando tecnologias front-end. <br>
  😡 Inimigo dos bugs. <br>
  👾 Apaixonado por games e tecnologia. <br>
+ 🤡 Sim eu escolho o bulbassauro como inicial <br>
  
 <div align="center">
   <a href="https://github.com/rafaballerini">
