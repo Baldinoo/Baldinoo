@@ -1,4 +1,8 @@
 ### </Hello Word> Eu sou o Juan Rocha
+
+ 😉 Atualmente estudando tecnologias front-end. <br>
+ 😡 Inimigo dos bugs. <br>
+ 👾 Apaixonado por games e tecnologia. <br>
  
 <div align="center">
   <a href="https://github.com/rafaballerini">
