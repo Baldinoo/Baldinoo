@@ -1,11 +1,10 @@
 <div align="center">
- <Hello Word/> Eu sou o Juan Rocha🖖
-
- 😉 Atualmente estudando tecnologias front-end. <br>
+ <H1> <Hello Word/> Eu sou o Juan Rocha🖖 </H1>
+ <h4>😉 Atualmente estudando tecnologias front-end. <br>
  😡 Inimigo dos bugs. <br>
  👾 Apaixonado por games e tecnologia. <br>
  🤡 Sim, eu escolho o Bulbassauro como pokemon inicial <br>
- 💻cursando Análise e desenvolvimento de sistema.
+  💻cursando Análise e desenvolvimento de sistema.</h4>
 </div> 
 <div align="center">
   <a href="https://github.com/Baldinoo">
