@@ -1,5 +1,5 @@
 <div align="center">
- <H1> <Hello Word/> Eu sou o Juan Rocha🖖 </H1>
+ <H1> Olá Eu sou o Juan Rocha🖖 </H1>
  <h4>😉 Atualmente estudando tecnologias front-end. <br>
  😡 Inimigo dos bugs. <br>
  👾 Apaixonado por games e tecnologia. <br>
